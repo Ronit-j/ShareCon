@@ -3,11 +3,6 @@
 A simple QR code based Mobile App to exchange contacts effortlessly.
 
 
-## Install expo and required dependencies.
-`npm install`
-## Run using expo start command.
-`expo start`
-
 ## Steps to follow:
 
 1) Edit your personal details in the second tab.
