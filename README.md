@@ -19,12 +19,12 @@ A simple QR code based Mobile App to exchange contacts effortlessly.
 ### Screenshots:
 <table>
 <row>
-<img src="./data/image2.jpeg"
+<img src="./image2.jpeg"
      alt="Screenshot of QR code Scanner"
      style="float: left; margin-right: 10px; height: 800px; width:400px;" />
 </row>
 <row>
-<img src="./data/image1.jpeg"
+<img src="./image1.jpeg"
      alt="Screenshot of QR code Scanner"
      style="float: left; margin-right: 10px; height: 800px; width:400;" />
 <row>
